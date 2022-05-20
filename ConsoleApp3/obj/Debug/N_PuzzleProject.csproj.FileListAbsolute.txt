@@ -1,0 +1,29 @@
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\obj\Debug\N_PuzzleProject.csprojAssemblyReference.cache
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\obj\Debug\N_PuzzleProject.csproj.CoreCompileInputs.cache
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Algorithms\AlgoProject__final\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\obj\Debug\N_PuzzleProject.csproj.AssemblyReference.cache
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\obj\Debug\N_PuzzleProject.csproj.CoreCompileInputs.cache
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+F:\3\second term\algorithms\project\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\N_PuzzleProject.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\N_PuzzleProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\N_PuzzleProject.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\dell\Downloads\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\N_puzzle_ISA\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\N_puzzle_ISA\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\N_puzzle_ISA\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\N_puzzle_ISA\ConsoleApp3\ConsoleApp3\obj\Debug\N_PuzzleProject.csprojAssemblyReference.cache
+D:\N_puzzle_ISA\ConsoleApp3\ConsoleApp3\obj\Debug\N_PuzzleProject.csproj.CoreCompileInputs.cache
+D:\N_puzzle_ISA\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\N_puzzle_ISA\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
